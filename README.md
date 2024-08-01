@@ -1,1 +1,2 @@
 # Employee-payroll-system-using-Java
+The employee payroll system is build using Abstract Employee class serving as the foundation for different employee types. Concrete subclasses FullTimeEmployee and PartTimeEmployee with salary calculation. A user-friendly terminal interface for easy interaction and data management. The system is build in such a way that we can add an employee, remove an employee, caluclate their salary, workhours and other details. 
